@@ -10,5 +10,6 @@
 
 ## Technologies and Tools 
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-
+<img title="Html5" alt="Html5" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/html5.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Css3" alt="Css3" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/css.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/javascript.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
