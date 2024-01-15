@@ -1,15 +1,37 @@
 <div align="center">
-<h1 align="center">Hello, I am Abraham Munguia 👋</h1>
+  <img src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/abmunguia77GitHub.svg" alt="Abraham Munguia GitHub">
 </div>
-<img src="https://i.imgur.com/rSqBfW2.jpg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabmunguia77&labelColor=%23d9e3f0&countColor=%23263759&style=flat&labelStyle=none)
 
-## Technologies and Tools 
+<div align="center">
+  <h1>About me 🧑‍🎓</h1>
+<div>
+    
+  <h5>I am a student  . who has been in the field of cybersecurity and IT Technician. But my passion has always been coding. I love creating and designing web pages. My new goal is to learn about the backend.For my programming projects, I usually only upload them to Github once I make significant progress.</h5>
+<h5>
+📚 I am currently working on creating web pages.<br>
+🌍 I like music, reading and visiting new places in my free time.<br>
+⚡ Fun fact: my first line of code was not "Hello world!."<br></h5>
 
-<img title="Html5" alt="Html5" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/html5.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-<img title="Css3" alt="Css3" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/css.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-<img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/javascript.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+| Learning                                  |
+|-------------------------------------------|
+| • Coding programmer for web applications Development of web applications and mobile devices with a focus on data storage.|
+| • Interface designer for web environment and mobile devices, both general and specific.|
+| • Technical support for web applications and mobile devices.|
+
+
+## 💡 Technologies and Tools 💡
+
+<div align="center">
+  <code><img title="Html5" alt="Html5" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/html5.svg" width="33" height="37" margin="4"/></code>
+  <code><img title="Css3" alt="Css3" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/css.svg" width="30" height="35" margin="4"/></code>
+  <code><img title="Javascript" alt="Javascript" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/javascript.svg" width="40" height="32" margin="4"/></code>
+  <code><img title="React" alt="React" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/react.svg" width="35" height="35" margin="4"/></code>
+  <code><img title="Git" alt="Git" src="https://raw.githubusercontent.com/abmunguia77/abmunguia77/main/img/git.svg" width="35" height="35" margin="4"/></code> 
+</div>
+
+## 📧 Contacts 📧
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abmunguia77/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrahamcr/)
